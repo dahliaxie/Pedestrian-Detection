@@ -22,6 +22,6 @@ Key features include:
 
 ## Dataset
 
-- The provided sample video file ("peoplebg.mp4") is used for demonstration purposes. However, the script can be easily adapted to work with other video files or live video streams.
+- The provided sample video file ("peoplebg.mp4") is sourced from [this YouTube video](https://youtu.be/ORrrKXGx2SE?si=jrLi9xuQdiMcoEwX), and used for demonstration purposes. However, the script can be easily adapted to work with other video files or live video streams.
 
 **Note**: Fine-tuning of detection parameters may be required depending on the specific application and environmental conditions.
